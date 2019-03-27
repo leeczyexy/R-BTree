@@ -1,4 +1,4 @@
-package com.rb.tree.demo;
+package com.rbtree.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

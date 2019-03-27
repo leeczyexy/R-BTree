@@ -1,4 +1,4 @@
-package com.rb.tree.demo;
+package com.rbtree.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
